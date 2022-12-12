@@ -4,3 +4,19 @@ Olá, eu sou o Kenad Araújo, desenvolvedor em Java desde 2017, estudante de Mes
 
 
 A minha profissão é decorrência do meu sonho.
+
+## Stacks
+ * Build e compilação:
+   * Maven
+   * Npm
+ * BackEnd
+   * Java - SpringBoot
+ * FrontEnd
+   * Angular
+   * Vue.js
+ * Banco de dados
+   * Qualquer um no padrão ANSI SQL e relacional
+   
+## Projetos de portfólio
+
+## Projetos de exemplos e referências
