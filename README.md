@@ -20,3 +20,6 @@ A minha profissão é decorrência do meu sonho.
 ## Projetos de portfólio
 
 ## Projetos de exemplos e referências
+
+### Messageria(RabbitMQ, Kafka e etc)
+[Um exemplo simples de uso do RabbitMQ](https://github.com/KenadAraujo/rabbitmqExample)
