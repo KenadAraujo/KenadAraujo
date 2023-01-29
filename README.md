@@ -22,4 +22,5 @@ A minha profissão é decorrência do meu sonho.
 ## Projetos de exemplos e referências
 
 ### Messageria(RabbitMQ, Kafka e etc)
-[Um exemplo simples de uso do RabbitMQ](https://github.com/KenadAraujo/rabbitmqExample)
+* [Um exemplo simples de uso do RabbitMQ](https://github.com/KenadAraujo/rabbitmqExample)
+* [Um exemplo com DLQ e DLX de uso com RabbitMQ] (https://localhost.com)
