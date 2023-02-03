@@ -22,7 +22,7 @@ A minha profissão é decorrência do meu sonho.
 ## Projetos de exemplos e referências
 
 * ### Projetos Dockerizados
-  * [Exemplo de projeto SpringBoot Dockerizado](https://127.0.0.1/)
+  * [Exemplo de projeto SpringBoot Dockerizado](https://github.com/KenadAraujo/docker-teste)
 
 * ### Projetos com finalidade OpenSource e Uso Livre
   * [Projeto de validação dinâmica de CSV(Em desenvolvimento)](https://github.com/KenadAraujo/OpenCSVValidator) 
