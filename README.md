@@ -29,6 +29,6 @@ A minha profissão é decorrência do meu sonho.
   * [Projeto de validação dinâmica de CSV(Em desenvolvimento)](https://github.com/KenadAraujo/OpenCSVValidator) 
   
 * ### Messageria(RabbitMQ, Kafka e etc)
-  * [Um exemplo simples de uso do RabbitMQ](https://github.com/KenadAraujo/rabbitmqExample)
-  * [Um exemplo com DLQ e DLX de uso com RabbitMQ](https://github.com/KenadAraujo/springexampledlx)
+  * [Um exemplo simples de uso do RabbitMQ com SpringBoot](https://github.com/KenadAraujo/rabbitmqExample)
+  * [Um exemplo com DLQ e DLX de uso com RabbitMQ com SpringBoot](https://github.com/KenadAraujo/springexampledlx)
 
