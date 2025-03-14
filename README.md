@@ -24,6 +24,7 @@ A minha profissão é decorrência do meu sonho.
 
 * ### Projetos Dockerizados
   * [Exemplo de projeto SpringBoot Dockerizado](https://github.com/KenadAraujo/docker-teste)
+  * [Monitoramento de apps SpringBoot com Graylog](https://github.com/KenadAraujo/graylog-spring)
 
 * ### Projetos com finalidade OpenSource e Uso Livre
   * [Projeto de validação dinâmica de CSV(Em desenvolvimento)](https://github.com/KenadAraujo/OpenCSVValidator) 
